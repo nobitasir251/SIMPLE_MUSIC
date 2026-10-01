@@ -70,7 +70,7 @@ DEEP_API = getenv("DEEP_API")
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # ❖ ɢ ɪ ᴛ ʜ ᴜ ʙ   s ᴇ ᴛ ᴛ ɪ ɴ ɢ s ❖
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Simple-Boy-1k/SIMPLE_MUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/nobitasir251/SIMPLE_MUSIC")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
